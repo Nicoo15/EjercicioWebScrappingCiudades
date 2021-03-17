@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643686145944",
+    "project_id": "examen-pmdm-a4c83",
+    "storage_bucket": "examen-pmdm-a4c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643686145944:android:a0d656a606503dbad7d5ed",
+        "android_client_info": {
+          "package_name": "com.example.examenpmdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643686145944-gglkssto3qbquaqoj6u1g05c2rhb0n0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANEFa5217VVDsSkuWyiVaWO2yYvR4J8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643686145944-gglkssto3qbquaqoj6u1g05c2rhb0n0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
